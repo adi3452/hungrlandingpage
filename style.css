@@ -1,0 +1,28 @@
+.body-color {
+    background-color: green;
+}
+
+#contact {
+    color: #000;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    background-color: #cacfdf;
+    text-decoration: none;
+  }
+
+  #icon-container{
+    align-content: center;
+    text-decoration: n;
+  }
+
+  .headerSpace{
+    padding: 5px;
+    text-align: center;
+    background: #201434;
+    color: white;
+    font-size: 30px;
+    color: rgb(131, 131, 192);
+}
